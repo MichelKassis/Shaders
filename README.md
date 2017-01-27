@@ -1,3 +1,3 @@
 #SHADERS
 
-A bunch of GLSL shaders I've mades
+A bunch of GLSL shaders I've made
